@@ -1,0 +1,7 @@
+#Tue Jun 06 11:58:16 EEST 2017
+base.0=C\:\\Users\\User\\Desktop\\aplicatie\\WelcomeAnimationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d823df774ba0861d7d21cb1a25b7b901fe911ff0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\User\\Desktop\\aplicatie\\WelcomeAnimationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_abb113ca4304288680f12d720f34d9720d2c5fc4\\classes.dex
+base.1=C\:\\Users\\User\\Desktop\\aplicatie\\WelcomeAnimationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_abb113ca4304288680f12d720f34d9720d2c5fc4
+file.0=C\:\\Users\\User\\Desktop\\aplicatie\\WelcomeAnimationApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d823df774ba0861d7d21cb1a25b7b901fe911ff0\\classes.dex
